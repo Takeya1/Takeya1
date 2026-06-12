@@ -4,7 +4,7 @@
 
 # Lesther Ouma
 
-**`Digital Craftsman (Computational Biologist | Software Engineer | Data Scientist)`**
+**`(Computational Biologist | Software Engineer | Data Scientist)`**
 
 ## 💫 About Me:
 I'm a Computer Science student minoring in Human Biology at Sattler College, building data-driven tools at the intersection of biology and software. My work focuses on engineering high-performance analysis pipelines, interactive visualization tools, and intelligent machine learning workflows that turn complex biological data into insight researchers can act on. Whether I'm optimizing a cell-counting algorithm, designing scalable bioinformatics pipelines, or integrating AI models into lab workflows — I'm driven by the conviction that the most pressing challenges in biomedical research live at the intersection of computation and biology.
